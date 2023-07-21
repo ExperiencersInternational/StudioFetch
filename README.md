@@ -16,8 +16,10 @@ Neofetch but for Roblox Studio.
 - Workspace unanchored part count
 - Plugin version
 
+All information can be exported to a script in game.ServerStorage.Plugins.ExperiencersInternational.StudioFetch.SavedInfo.
+
 ## Contributing info
 
 Please, no Rojo, I know it makes people's life easier, but it's annoying having to mess around to get it working.
 
-Available for 100 Robux on the Plugin Marketplace (recommended): https://www.roblox.com/library/10617380998/StudioFetch.
+Available for **FREE** on the Plugin Marketplace (recommended): https://www.roblox.com/library/10617380998/StudioFetch.
